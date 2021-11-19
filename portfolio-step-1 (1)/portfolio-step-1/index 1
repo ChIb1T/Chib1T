@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+  
+  <head>
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Old+Standard+TT&display=swap&subset=cyrillic" rel="stylesheet">
+	<meta charset="UTF-8">
+    <link rel="stylesheet" href="outlines.css">
+    <title>Портфолио Junior верстальщика</title>
+  </head>
+
+  <body>
+    <header class="page-header">
+      <div class="container">
+	  Контакты в шапке
+	  </div>
+    </header>
+
+    <section class="hero-image">
+      <h1 class="heading">Даниил ЧЕБОТАРЕВ</h1>
+      <p>Junior бравл старсер</p>
+    </section>
+
+    <section class="intro">
+      <h2 class="subheading">Давайте познакомимся</h2>
+      <h3>Пара слов о себе</h3>
+      <p>Люблю играть в бравл старс и смотреть аниме.</p>
+      <h3>Чем могу быть полезен</h3>
+      <p>Я могу помочь забустить кубки в бравл старс.</p>
+    </section>
+
+    <section class="portfolio">
+      <h2 class="subheading">Мои работы</h2>
+
+      <h3>Презентация по географиии на 5</h3>
+      <p>Мой первый сайт написан на HTML.</p>
+
+      <h3>Блог начинающего бравл старсера</h3>
+      <p>Статический блог про обучение бравл старсу.</p>
+    </section>
+
+    <footer class="page-footer">
+      Детей в подвале нет, даже не ищите
+    </footer>
+  </body>
+</html>
