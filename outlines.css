@@ -6,10 +6,12 @@ body {
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url(https://www.iphones.ru/wp-content/uploads/2020/03/970146_53d9c33901.jpg), 200px;
   background-repeat: no-repeat;
   background-position: top center;
+  
 }
+
 
 .container {
   max-width: 928px;
@@ -83,7 +85,7 @@ body {
 }
 
 .user-image {
-  margin: 0 0 32px;
+  margin: 0 0 34px;
   text-align: center;
 }
 
